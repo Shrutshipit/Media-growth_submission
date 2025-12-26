@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MediaGrowth - SMB Campaign Tool",
+  "description": "An India-first self-serve advertising platform for SMBs to create unified campaigns.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
